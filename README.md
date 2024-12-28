@@ -1,6 +1,6 @@
-##🚆 **Siemens Fast Trains Terraform Project**
+# 🚆 **SIEMENS FAST TRAINS TERRAFORM PROJECT**
 
-## **Table of Contents**
+## **Table of Contents** 📑
 - **[Pre-requisites](#pre-requisites)** 📋
 - **[Chosen Resources](#chosen-resources)** 🛠️
 - **[Concrete Plan](#concrete-plan)** 🗂️
@@ -93,3 +93,5 @@ This Terraform project demonstrates a robust, scalable, and secure approach to m
 - **Enhanced Security:** Protects sensitive data and ensures traffic control.
 - **Cost Optimization:** Aligns resource utilization with Siemens’ financial objectives.
 - **Future-Ready Infrastructure:** Supports ongoing improvements and growth.
+
+This project is intended solely as a basic example to illustrate fundamental procedures for infrastructure deployment using Azure and Terraform.
