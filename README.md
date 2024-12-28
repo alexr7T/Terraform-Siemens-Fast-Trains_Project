@@ -109,7 +109,3 @@ The project is structured to follow a step-by-step deployment plan:
 
 5. **Future Growth:**
    - Infrastructure is designed for scalability, enabling seamless expansion as project demands grow.
-
----
-
-For detailed explanations and troubleshooting, please refer to the Azure and Terraform documentation or contact the infrastructure team.
